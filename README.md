@@ -10,7 +10,7 @@ Due to confidentiality, the script focuses on designing parts and sub-assemblies
 - Uses results to generate **fully parameterized 3D models** and **technical drawings** in Autodesk Inventor.
 - Reduces manual modelling effort while ensuring **standards compliance**.
 
-  **📹 Video Demo:** [Watch now]([(https://youtu.be/jXdbaYtqJoY)])
+**📹 Video Demo:** [Watch now](https://youtu.be/jXdbaYtqJoY)
 
 ---
 
